@@ -28,7 +28,7 @@ body{
     background-color: rgb(191, 214, 243);
     margin: 10%;
     border-radius: 1%;
-    
+    padding: 5rem;
     
     display: flex;
     flex-direction: column;
