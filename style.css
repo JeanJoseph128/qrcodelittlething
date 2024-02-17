@@ -29,7 +29,7 @@ body{
     margin: 10%;
     border-radius: 1%;
     padding: 5rem;
-    width: 90%;
+    margin: 50rem;
     
     display: flex;
     flex-direction: column;
